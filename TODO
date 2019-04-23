@@ -1,4 +1,4 @@
-#Integrate the build/deploy into a jenkins project and pipeline. i.e. add a Jenkinsfile.
+#Integrate the build/deploy into a proper jenkins pipeline. 
 #Add container monitoring
 #Add Selenium tests
 #Add terraform or ansible playbooks
