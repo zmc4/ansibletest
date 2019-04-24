@@ -14,7 +14,6 @@ pipeline {
         stage('Deploy') {
             steps {
                 echo 'Deploying....no real Deploy steps yet'
-		sh "docker container ls"
             }
         }
     }
